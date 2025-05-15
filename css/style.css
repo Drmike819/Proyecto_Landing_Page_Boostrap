@@ -1,0 +1,21 @@
+body {
+    font-family: 'Averia Serif Libre', serif;
+    background-color: #f2f2f2;
+}
+
+.bg-primary-custom {
+    background-color: #8B0000 !important;
+}
+
+.text-gold {
+    color: #FFD700;
+}
+
+.btn-primary-custom {
+    background-color: #8B0000;
+    border: none;
+}
+
+.btn-primary-custom:hover {
+    background-color: #a30000;
+}
